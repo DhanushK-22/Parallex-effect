@@ -31,8 +31,7 @@ The project is organized into the following frames:
 - Portfolio websites
 
 ## 📸 Preview  
-*(Include a screenshot or GIF of the parallax effect if possible)*  
-
+[Click here](https://www.figma.com/proto/bRjFOIjW3wfn1JWLmuRgFQ/prallex-effects?node-id=4-2&p=f&t=ah0cHhfwpa8qmbeF-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 ## 💡 Key Learnings  
 - Implementing the **parallax scrolling effect** using Figma's prototyping tools.  
 - Understanding how to layer visuals for depth and interactivity.  
